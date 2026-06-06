@@ -9,3 +9,7 @@ langsmith
 langchain_tavily
 langchain-mcp-adapters
 mcp
+langchain-core
+pypdf
+pymupdf
+langchain_core
