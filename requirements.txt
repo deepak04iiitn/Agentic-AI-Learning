@@ -13,3 +13,6 @@ langchain-core
 pypdf
 pymupdf
 langchain_core
+sentence-transformers
+chromadb
+faiss-cpu
