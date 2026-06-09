@@ -16,3 +16,4 @@ langchain_core
 sentence-transformers
 chromadb
 faiss-cpu
+pageindex
